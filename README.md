@@ -6,7 +6,7 @@
 
 3. Based on the player input number, it generates one random number upto the range of player input number.
 
-Example : input_number = 5
+Example : input_number = 5,
           random_number = random.randint(input_number)
           
 4. Player has to guess that random number. The game will continue until the player guesses the number.
